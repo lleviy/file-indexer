@@ -1,0 +1,22 @@
+# Java build files
+*.class
+
+# Maven build files
+**/target/
+**/pom.xml.versionsBackup
+
+# SberWorks.META
+plugin.log
+meta.lock
+Mavenrepository/*
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Other project files
+**/.settings
+**/.classpath
+**/.project
